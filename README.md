@@ -4,10 +4,6 @@ A DIY MIDI controller built to control the [Mixing Station](https://mixing-stati
 <img src="WhatsApp%20Image%202026-04-18%20at%2014.38.11.jpeg" width="400">
 <img src="WhatsApp%20Image%202026-04-18%20at%2014.38.12.jpeg" width="400">
 
-## Demo
-
-https://github.com/user/mixing_station_midi_controller/raw/main/WhatsApp%20Video%202026-04-18%20at%2014.38.13.mp4
-
 ## Features
 
 - MIDI control surface for Mixing Station app
